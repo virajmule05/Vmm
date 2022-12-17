@@ -20,22 +20,4 @@
 
 10)click&hold
 
-11)click&hold(targeted element)
-
-12)release()
-
-13)release(targeted element)
-
-14)doubleclick
-
-15)doubleclcik(tergeted element)
-
-16)perform()
-
-17)drag&dropBY()
-
-18)build()===>
-
-19)keyUp()===>pressing key
-
-20)keydown()===>releasing key
+g key
