@@ -20,4 +20,3 @@
 
 10)click&hold
 
-g key
