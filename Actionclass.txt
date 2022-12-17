@@ -1,0 +1,41 @@
+*action
+
+1)moveToElement==>To move cursor from one position to another 
+
+2)moveToElement===>To move cursor from one position to another along with x and y position
+
+3)contextclick===>to right click on webpage
+
+4)moveByOffest(int x offset,int y offset)===>to move 
+
+5)sendKeys()====>keyword to perform keboard action
+
+6)sendkeys(targeted element)
+
+7)drag and drop
+
+8)click()
+
+9)click(targeted element)
+
+10)click&hold
+
+11)click&hold(targeted element)
+
+12)release()
+
+13)release(targeted element)
+
+14)doubleclick
+
+15)doubleclcik(tergeted element)
+
+16)perform()
+
+17)drag&dropBY()
+
+18)build()===>
+
+19)keyUp()===>pressing key
+
+20)keydown()===>releasing key
