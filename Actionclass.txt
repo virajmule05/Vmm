@@ -16,7 +16,6 @@
 
 8)click()
 
-9)click(targeted element)
 
-10)click&hold
+
 
